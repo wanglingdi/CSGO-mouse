@@ -1,6 +1,7 @@
 # CSGO-mouse
 鼠标宏，罗技可用。
-DPI 1600 游戏鼠标速度 1 
+DPI 1600 游戏鼠标速度 1\ 
+鼠标宏文件在csgo.txt中
 
 鼠标侧键控制开启关闭\
 AK47  CapsLock亮，NumLock灭，ScrollLock灭。\
