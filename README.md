@@ -10,4 +10,4 @@ m4a1  CapsLock亮，NumLock亮，ScrollLock灭。\
 m4a4  CapsLock亮，NumLock亮，ScrollLock亮。\
 Famas CapsLock灭，NumLock亮，ScrollLock灭。\
 完美 5E 官匹都可以用。\
-注意请下载win-64-lgs-9.02.65-logitech，下载这个版本才可以使用，其他版本会失灵。
+放到Ghub脚本即可使用，最新测试网上下载的老版罗技游戏驱动容易无法使用。
